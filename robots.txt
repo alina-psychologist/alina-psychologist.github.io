@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alina-psychologist.github.io/sitemap.xml
